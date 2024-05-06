@@ -15,5 +15,5 @@ La app consta de una carpeta que se divide en las siguientes sub carpetas:
 En un proyecto de Qt en C++ la carpeta Forms es utilizada para almacenar los archivos de diseño de interfaz gráfica creados con el Editor de Formularios Qt Designer. Estos archivos suelen contener la descripción visual de la interfaz de usuario, incluyendo los widgets, su disposición, propiedades y señales asociadas.
 4.	Y, por último, el archivo ‘.pro’. Es un archivo de configuración del proyecto. Se utiliza para especificar las dependencias, configuraciones de compilación, enlazado de bibliotecas y otros detalles importantes para compilar y construir un proyecto.
    
-- Headers
+- Headers: 
 Las cabeceras contienen las declaraciones de clases, funciones y variables que se utilizan en tu código. Proporcionan una interfaz para que otros archivos de código fuente puedan utilizar estas clases y funciones sin necesidad de conocer los detalles de su implementación. Las cabeceras son fundamentales para la modularidad y la reutilización de código en proyectos de C+
