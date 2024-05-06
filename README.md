@@ -21,7 +21,7 @@ Las cabeceras contienen las declaraciones de clases, funciones y variables que s
 Los Sources contienen la implementación de las clases, funciones y variables declaradas en los archivos de cabecera (.h o .hpp). En esencia, los archivos de código fuente son donde escribes el código real para realizar las operaciones y definir el comportamiento de tu programa en un proyecto de C++.
 - Código comentado con explicaciones:
 - // ---------- mainwindow.h ----------
- #ifndef MAINWINDOW_H
+#ifndef MAINWINDOW_H
 #define MAINWINDOW_H
 
 #include <QList> // Libreria usada para la creación de la app.
